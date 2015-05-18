@@ -1,0 +1,83 @@
+body{
+	background-color:#ffffff;
+}
+
+*{
+	font-family: open sans, arial;
+	font-weight: 100;
+	text-align: center;
+}
+h2 {
+	font-size: xx-large;
+	}
+img{
+	height: 30%;
+	width: 100%;
+}
+
+#bangladesh{
+	height: 40%;
+	width: 100%;
+}
+
+#denmark{
+	height: 70%;
+	width: 98%;
+}
+
+#england{
+	height: 70%;
+	width: 103%;
+}
+
+#finland{
+	height: 40%;
+	width: 101%;
+}
+
+#germany{
+	height: 100%;
+	width: 101%;
+}
+
+#india{
+	height: 100%;
+	width: 100%;
+}
+
+#oman{
+	height: 100%;
+	width: 105%;
+}
+
+#portugal{
+	height: 100%;
+	width: 100%;
+}
+
+#switzerland{
+	height: 80%;
+	width: 100%;
+}
+
+#uzbekistan{
+	height: 80%;
+	width: 100%;
+}
+
+#vietnam{
+	height: 105%;
+	width: 100%;
+}
+
+.porimool{
+	font-size: 140%;
+}
+
+#back {
+	float: left;
+	height: 40px;
+	width: 30px;
+	margin:200px 0px 0px 0px;
+	z-index:-1;
+	}
