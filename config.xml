@@ -1,0 +1,13 @@
+    <widget id="com.application.pawan" version="0.0.1">
+        <name>Smart Kid</name>
+        <description>
+            E-learning app by Pawan Gurjar.
+        </description>
+        <author email="pawangurjar68@gmail.com">
+           Pawan Gurjar
+        </author>
+        <content src="index.html" />
+        <access origin="*" />
+		<preference name="phonegap-version" value="3.7.0" />
+		<gap:plugin name="com.rjfun.cordova.plugin.lowlatencyaudio" version="1.1.3" />
+    </widget>
