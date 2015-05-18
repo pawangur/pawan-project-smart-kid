@@ -28,9 +28,9 @@ header{   background: url("../img/head.png") no-repeat scroll 10px 0 / 50px 50px
     top: -7px;
     transform: rotate(10deg);
     width: 30px;}
-#result .tabs b{text-transform: uppercase; color:#0000CC}
+#result .tabs b{text-transform: uppercase;}
 #result img{width:100%;}
-#result .tabs{margin:0;color:#0000CC;}
+#result .tabs{margin:0;color:#fff;}
 #easyback{background:url("../img/1.png");}
 #normalback{background:url("../img/2.png");float:right;}
 #expertback{background:url("../img/3.png");}
